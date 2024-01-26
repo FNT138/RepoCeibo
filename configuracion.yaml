@@ -1,0 +1,13 @@
+versionMapa: 2.4.4
+versionJuego: '2.48'
+buildid: '231413'
+enlaces:
+- enlace: https://github.com/FNT138/RepoCeibo/raw/partes/Mapa%20Ceibo%20Parte%201.scs
+  nombre_archivo: Parte 1.scs
+- enlace: https://github.com/FNT138/RepoCeibo/raw/partes/Mapa%20Ceibo%20Parte%202.scs
+  nombre_archivo: Parte 2.scs
+- enlace: https://github.com/FNT138/RepoCeibo/raw/partes/Mapa%20Ceibo%20Parte%203.scs
+  nombre_archivo: Parte 3.scs
+- enlace: https://github.com/FNT138/RepoCeibo/raw/partes/Mapa%20Ceibo%20Parte%204.scs
+  nombre_archivo: Parte 4.scs
+ubicacionETS: C:\Users\fede4\OneDrive\Escritorio\acadescargas
